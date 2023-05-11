@@ -1,12 +1,4 @@
 
-[r/Skiing](http://reddi.tk/r/skiing/)
-
-[r/Backcountry](https://reddi.tk/r/backcountry)
-
-
----
-
-
 [George Dirth Memorial Scholarship Fund](https://wwgd.systrap.net/George-Dirth-Memorial-Scholarship-Fund/)
 
 [Roots - Foundations of Freeskiing](https://www.youtube.com/watch?v=dfg\_cLwwiZc)

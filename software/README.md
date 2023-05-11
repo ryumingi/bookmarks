@@ -4,11 +4,14 @@
 
 ---
 
-[Shtetl-Optimized (Scott Aaronson)](https://scottaaronson.blog/)
+[Email only Django allauth integration](https://learndjango.com/tutorials/django-log-in-email-not-username)
 
-[Snowden](https://nitter.net/search?f=tweets\&q=from%3Asnowden\&e-nativeretweets=on\&e-replies=on)
-
+[Upload file from Django admin panel](https://stackoverflow.com/questions/39329196/how-to-upload-image-file-from-django-admin-panel)
 
 ---
 
-https://www.lan.kth.se/eduroam/phones/phones_mobile_guide.html
+[Effective MLOps: Model Development](https://www.wandb.courses/courses/effective-mlops-model-development)
+
+[Building a Better Search Engine for Semantic Scholar](https://medium.com/ai2-blog/building-a-better-search-engine-for-semantic-scholar-ea23a0b661e7)
+
+---
