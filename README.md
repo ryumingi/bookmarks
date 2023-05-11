@@ -21,4 +21,4 @@
    * [flight.md](./travel/flight.md)
    * [skiing.md](./travel/skiing.md)
  * [favorites.md](./favorites.md)
- * [lifestyle](./lifestyle)
+ * [life](./life)
