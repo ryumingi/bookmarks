@@ -9,3 +9,4 @@ tree=$(tree -tf --noreport -I '*~' --charset ascii $1 |
 printf "${source}\n\n${tree}" > README.md
 
 sed -i '/\[index.sh\]/d' README.md
+sed -i '/\[README.md\]/d' README.md
