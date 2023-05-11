@@ -1,0 +1,18 @@
+name: index
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update index
+        run: sh index.sh
+      - name: Commit index
+        run: |
+          git config --global user.name 'Mingi Ryu'
+          git config --global user.email 'mingi.ryu@icloud.com'
+          git commit -am "Update index"
+          git push
