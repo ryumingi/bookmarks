@@ -20,5 +20,5 @@
    * [cars.md](./travel/cars.md)
    * [flight.md](./travel/flight.md)
    * [skiing.md](./travel/skiing.md)
- * [favorites.md](./favorites.md)
  * [life](./life)
+ * [anything](./anything)
