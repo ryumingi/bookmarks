@@ -29,3 +29,9 @@
 
 [Hello Landing](https://www.hellolanding.com)
 - Landing Standby: 1300 monthly for sporadic renting.
+
+---
+
+https://www.cs.columbia.edu/des/
+
+https://engineering.jhu.edu/doctor-of-engineering/
