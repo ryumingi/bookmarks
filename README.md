@@ -1,12 +1,12 @@
 [source](https://github.com/ryumingi/bookmarks/)
 
 .
+ * [all.md](./all.md)
+ * [flights](./flights)
  * [life](./life)
- * [anything](./anything)
  * [media](./media)
  * [research](./research)
    * [gender.md](./research/gender.md)
- * [flights](./flights)
  * [skiing](./skiing)
- * [travel](./travel)
  * [software](./software)
+ * [travel](./travel)
