@@ -32,6 +32,10 @@
 
 ---
 
-https://www.cs.columbia.edu/des/
+[France Internet Availability Map](https://cartefibre.arcep.fr/index.html)
 
-https://engineering.jhu.edu/doctor-of-engineering/
+---
+
+[Doctoral CS Columbia](https://www.cs.columbia.edu/des/)
+
+[Doctoral CS JHU](https://engineering.jhu.edu/doctor-of-engineering/)
