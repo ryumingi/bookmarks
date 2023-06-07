@@ -59,7 +59,7 @@
 
 [There’s an AI for that](https://theresanaiforthat.com/alphabetical/)
 
-[2ft](https://12ft.io/)
+[12ft](https://12ft.io/)
 
 [Sci-Hub](https://sci-hub.se/)
 
