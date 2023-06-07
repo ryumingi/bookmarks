@@ -57,3 +57,9 @@ Clothes
 [Early retired mechanical engineer onebag setup](https://reddi.tk/r/onebag/comments/11pny00/145lbs_30l_indefinite_travel_setup_1year_update/)
 
 ---
+
+https://www.gloh2o.org/koppen/
+
+https://heyjackass.com/enlightening-commentary/
+
+https://www.populationu.com/gen/most-dangerous-cities-in-the-us
