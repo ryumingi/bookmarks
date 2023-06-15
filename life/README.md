@@ -9,6 +9,10 @@
 
 [DOL Processing Time](https://flag.dol.gov/processingtimes)
 
+https://www.casestatusext.com/
+
+https://hilites.today/uscis_cases/ioe-stats
+
 ---
 
 [Building affordable housing - Migraine Craftsman](https://m.youtube.com/@MigraineCraftsman/featured)
