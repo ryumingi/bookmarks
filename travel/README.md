@@ -1,8 +1,6 @@
-https://www.cellmapper.net
+[CellMapper](https://www.cellmapper.net) | [CoverageMap](https://coveragemap.com)
 
-https://coveragemap.com/
-
-https://qsensor.co/
+[Qsensor](https://qsensor.co/)
 
 ---
 
