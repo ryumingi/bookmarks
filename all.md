@@ -43,11 +43,7 @@
 
 ---
 
-[VTI](https://www.tradingview.com/chart/?symbol=AMEX%3AVTI) | [VXUS](https://www.tradingview.com/chart/?symbol=NASDAQ%3AVXUS)
-
-[BRK.B](https://www.tradingview.com/chart/?symbol=NYSE%3ABRK.B)
-
-[BTCUSD](https://www.tradingview.com/chart/?symbol=BITSTAMP%3ABTCUSD) | [XMRUSD](https://www.tradingview.com/chart/?symbol=BYBIT%3AXMRUSDT.P) | [XMRBTC](https://www.tradingview.com/chart/?symbol=BINANCE%3AXMRBTC)
+[VTI](https://www.tradingview.com/chart/?symbol=AMEX%3AVTI) | [VXUS](https://www.tradingview.com/chart/?symbol=NASDAQ%3AVXUS) | [BRK.B](https://www.tradingview.com/chart/?symbol=NYSE%3ABRK.B) | [BTCUSD](https://www.tradingview.com/chart/?symbol=BITSTAMP%3ABTCUSD) | [XMRUSD](https://www.tradingview.com/chart/?symbol=BYBIT%3AXMRUSDT.P) | [XMRBTC](https://www.tradingview.com/chart/?symbol=BINANCE%3AXMRBTC)
 
 ---
 
