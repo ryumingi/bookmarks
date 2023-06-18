@@ -1,3 +1,8 @@
+https://www.cellmapper.net
+
+https://coveragemap.com/
+
+https://qsensor.co/
 
 ---
 
