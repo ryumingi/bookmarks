@@ -7,6 +7,8 @@
 
 ---
 
+[r/USCIS](https://reddi.tk/r/uscis)
+
 [r/DigitalNomad](https://reddi.tk/r/digitalnomad/)
 
 [r/BogleHeads](https://reddi.tk/r/bogleheads)
@@ -16,6 +18,12 @@
 [r/EuropeFIRE](https://reddi.tk/r/EuropeFIRE/)
 
 [r/USExpatTaxes](https://reddi.tk/r/usexpattaxes)
+
+[r/Seattle](https://reddi.tk/r/seattle)
+
+[r/Denver](https://reddi.tk/r/denver)
+
+[r/Chicago](https://reddi.tk/r/chicago)
 
 [r/Skiing](http://reddi.tk/r/skiing/)
 
@@ -79,8 +87,6 @@
 
 [Organic Maps](https://organicmaps.app/)
 
-[Hillmap](https://hillmap.com)
-
 [PurpleAir](https://map.purpleair.com/)
 
 [Alpen Passe](https://alpen-paesse.ch/en/)
@@ -91,29 +97,21 @@
 
 [Slickdeals](https://slickdeals.net/)
 
-[Radio France](https://www.radiofrance.fr)
+[Bogleheads.org](https://bogleheads.org/)
 
 [Travel Stack Exchange](https://travel.stackexchange.com)
+
+[Radio France](https://www.radiofrance.fr)
 
 [Frugalvagabond](https://frugalvagabond.com/)
 
 [Go Curry Cracker](https://www.gocurrycracker.com)
 
-[Bogleheads.org](https://bogleheads.org/)
-
 ---
 
 [Opt Out Prescreen](https://www.optoutprescreen.com/)
 
-[Delete My Data](https://deletemydata.io/)
-
 [Muscle Wiki](https://musclewiki.com/)
-
-[@KarmaCamperVans](https://www.instagram.com/karmacampervans/)
-
-[@Hopper](https://www.instagram.com/hopper/)
-
----
 
 [Eduroam](https://www.lan.kth.se/eduroam/phones/phones_mobile_guide.html)
 
