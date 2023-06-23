@@ -9,30 +9,13 @@
 
 [DOL Processing Time](https://flag.dol.gov/processingtimes)
 
-https://www.casestatusext.com/
+[CaseStatusExt](https://www.casestatusext.com/)
 
-https://hilites.today/uscis_cases/ioe-stats
+[Hilites (USCIS Cases)](https://hilites.today/uscis_cases/ioe-stats)
 
 ---
 
-[Building affordable housing - Migraine Craftsman](https://m.youtube.com/@MigraineCraftsman/featured)
-
-[Outsite](https://www.outsite.co/)
-
 [Judgemental Maps](https://judgmentalmaps.com)
-
-[Spot a Home](https://www.spotahome.com)
-
-[Vive Apartments](https://www.viveapartmenthomes.com/?rcstdid=Mg%253D%253D-YRjTEizZPgM%253D)
-
-[aPodment](https://www.apodment.com)
-- $300 off for first and second month for select housing
-- Additional $100 for lease less than 4 months.
-
-[Seatle Furnished Suites](https://seattlefurnishedsuites.com/suite-details/106)
-
-[Hello Landing](https://www.hellolanding.com)
-- Landing Standby: 1300 monthly for sporadic renting.
 
 ---
 
