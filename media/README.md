@@ -1,20 +1,4 @@
 
-The Age of Surveillance Capitalism by Shoshana Zuboff
-
-Staying Alive in Avalanche Terrain by Bruce Tremper
-
-Gödel, Escher, Bach by Douglas R Hofstadter
-
-Dark Matter by Blake Crouch
-
-Project Hail Mary by Andy Weir
-
----
-
-[MIT Godel Escher Bach Lectures](https://invidious.snopyta.org/playlist?list=PL2Im8p1voFZMsiVDP9f1D1F7hz6U8o1kE)
-
----
-
 Classic
 - [Piano Studio Ghibli Collection 1](https://www.youtube.com/watch?v=HGl75kurxok)
 - [Tchaikovsky - Violin Concerto in D major (Itzhak Perlman)](https://www.youtube.com/watch?v=QCKL95HAdQ8)
