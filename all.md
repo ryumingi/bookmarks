@@ -9,25 +9,13 @@
 
 [r/USCIS](https://reddi.tk/r/uscis)
 
-[r/DigitalNomad](https://reddi.tk/r/digitalnomad/)
+[r/DigitalNomad](https://reddi.tk/r/digitalnomad/) | [r/BogleHeads](https://reddi.tk/r/bogleheads)
 
-[r/BogleHeads](https://reddi.tk/r/bogleheads)
+[r/ExpatFIRE](https://reddi.tk/r/expatfire) | [r/EuropeFIRE](https://reddi.tk/r/EuropeFIRE/) | [r/USExpatTaxes](https://reddi.tk/r/usexpattaxes)
 
-[r/ExpatFIRE](https://reddi.tk/r/expatfire)
+[r/Seattle](https://reddi.tk/r/seattle) | [r/Denver](https://reddi.tk/r/denver) | [r/Chicago](https://reddi.tk/r/chicago)
 
-[r/EuropeFIRE](https://reddi.tk/r/EuropeFIRE/)
-
-[r/USExpatTaxes](https://reddi.tk/r/usexpattaxes)
-
-[r/Seattle](https://reddi.tk/r/seattle)
-
-[r/Denver](https://reddi.tk/r/denver)
-
-[r/Chicago](https://reddi.tk/r/chicago)
-
-[r/Skiing](http://reddi.tk/r/skiing/)
-
-[r/BackCountry](https://reddi.tk/r/backcountry)
+[r/Skiing](http://reddi.tk/r/skiing/) | [r/BackCountry](https://reddi.tk/r/backcountry)
 
 ---
 
