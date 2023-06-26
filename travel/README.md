@@ -1,5 +1,7 @@
 [CellMapper](https://www.cellmapper.net) | [CoverageMap](https://coveragemap.com)
 
+[CrimeGrade](https://crimegrade.org/crime-in-my-area/)
+
 [Imoova](https://imoova.com/)
 
 [Qsensor (Airport Security Wait Time)](https://qsensor.co/)
@@ -9,6 +11,10 @@
 [HeyJackass! - Chicago Crime Stats](https://heyjackass.com/)
 
 [Dangerous cities in the US](https://www.populationu.com/gen/most-dangerous-cities-in-the-us)
+
+--+
+
+[PFAS in Washington](https://doh.wa.gov/data-and-statistical-reports/washington-tracking-network-wtn/pfas/dashboard)
 
 ---
 
